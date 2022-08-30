@@ -1,4 +1,4 @@
-# Simple TCP Port scan
+# Simple TCP Port scan in Python3
 Simple TCP port scanner to check open ports in your network.
 
 How to use: python3 portscan.py [host]
